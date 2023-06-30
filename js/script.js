@@ -20,7 +20,7 @@ function toggleLanguage() {
       correo.innerHTML = ' Email: alejandrolgamotta@hotmail.com';
       ubicacion.innerHTML = ' Location: Mazatlan, Sinaloa';
       derechos.innerHTML = 'Copyright &copy; 2023 - Personal Website';
-      CV.innerHTML = '<a class="nav-link" href="/doc/CV Motta English.pdf" download style="color: black;"><strong><i class="fa-solid fa-newspaper"></i> Currículum Vitae</strong></a>';
+      CV.innerHTML = '<a class="nav-link" href="/doc/CV - Alejandro Lizarraga English.pdf" download style="color: black;"><strong><i class="fa-solid fa-newspaper"></i> Currículum Vitae</strong></a>';
     } else {
         titulo.innerHTML = 'Mi Blog Personal';
         idioma.innerHTML = '<i class="fa-solid fa-language"></i> English';
@@ -31,6 +31,6 @@ function toggleLanguage() {
         correo.innerHTML = ' Correo: alejandrolgamotta@hotmail.com';
         ubicacion.innerHTML = ' Ubicacion: Mazatlan, Sinaloa';
         derechos.innerHTML = 'Derechos de autor &copy; 2023 - Mi Blog Personal';
-        CV.innerHTML = '<a class="nav-link" href="/doc/CV Motta Espanol.pdf" download style="color: black;"><strong><i class="fa-solid fa-newspaper"></i> Currículum Vitae</strong></a>';
+        CV.innerHTML = '<a class="nav-link" href="/doc/CV - Alejandro Lizarraga English.pdf" download style="color: black;"><strong><i class="fa-solid fa-newspaper"></i> Currículum Vitae</strong></a>';
     }
   }
